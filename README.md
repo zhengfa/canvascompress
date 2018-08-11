@@ -36,6 +36,7 @@ Usage
     }
 </script>
 ```
+------------
 #Demo in Browser
 ------------
 ```
