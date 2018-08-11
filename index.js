@@ -1,2 +1,2 @@
-import canvasecompress from './lib/canvascompress'
-module.exports = canvasecompress
+import canvascondense from './lib'
+module.exports = canvascondense
