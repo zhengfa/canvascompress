@@ -17,7 +17,7 @@ class canvascondense  {
         };
     }
 
-    comporess() {
+    compress() {
         let self = this
         return new Promise(function (re, rj) {
             var file = self.input.files[0]
