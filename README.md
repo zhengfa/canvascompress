@@ -47,7 +47,7 @@ Usage
 <script src="./js/canvascondense.min.js"></script>
 <script type="text/javascript">
     var changecallback = function (event) {
-        new canvascondense(event.target, {
+        new compress(event.target, {
             maxpix: 1000,
             qulity: 0.8
         }).compress().then((DataUrl) => {
